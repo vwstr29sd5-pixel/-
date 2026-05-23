@@ -1,0 +1,20 @@
+{
+  "sites": [
+    {
+      "key": "番号资源",
+      "name": "番号资源",
+      "type": 1,
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "乐播",
+      "name": "乐播",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1
+    }
+  ]
+}
